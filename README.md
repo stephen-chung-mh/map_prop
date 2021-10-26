@@ -1,6 +1,8 @@
 # MAP Propagation Algorithm: Faster Learning with a Team of Reinforcement Learning Agents
 
-This repository is the official implementation of the paper "MAP Propagation Algorithm: Faster Learning with a Team of Reinforcement Learning Agents".
+This repository is the official implementation of the paper "MAP Propagation Algorithm: Faster Learning with a Team of Reinforcement Learning Agents". (https://arxiv.org/abs/2010.07893)
+
+
 
 ## Requirements
 
